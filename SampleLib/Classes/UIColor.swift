@@ -7,10 +7,14 @@
 
 import Foundation
 
-extension UIColor {
+public extension UIColor {
     
-    static func lightText() -> UIColor {
+    public static func lightText() -> UIColor {
         return UIColor(white: 0, alpha: 0.27)
     }
     
+}
+
+public class Author {
+    public static let name = "Fachri Febrian"
 }

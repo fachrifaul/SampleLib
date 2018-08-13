@@ -16,8 +16,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         let label: UILabel = UILabel(frame: CGRect(x: 100, y: 100, width: 100, height: 50))
-        label.text = "Contoh Label"
-        label.textColor = UIColor.lightText
+        label.text = Author.name
+        label.textColor = UIColor.lightText()
     }
     
 }
