@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SampleLib'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Contoh SampleLib'
   s.homepage         = 'https://github.com/fachrifaul/SampleLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'

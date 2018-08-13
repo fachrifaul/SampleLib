@@ -2,15 +2,15 @@ PODS:
   - SampleLib (0.1.0)
 
 DEPENDENCIES:
-  - SampleLib (from `../`)
+  - SampleLib
 
-EXTERNAL SOURCES:
-  SampleLib:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/bukalapak/BukalapakiOSSpecs:
+    - SampleLib
 
 SPEC CHECKSUMS:
   SampleLib: 5c8963c187cacdb52f31016d7c7d92b202f00630
 
-PODFILE CHECKSUM: 4ce42ba318b1144d784d7b16613d5c318a3cafc6
+PODFILE CHECKSUM: 305fa1569a7e8a44cab688620b072c3c27d68028
 
 COCOAPODS: 1.5.3
