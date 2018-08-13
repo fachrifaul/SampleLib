@@ -1,8 +1,8 @@
 use_frameworks!
 
 target 'SampleLib_Example' do
-    pod 'SampleLib'
-#  pod 'SampleLib', :path => '../'
+#    pod 'SampleLib'
+  pod 'SampleLib', :path => '../'
 
 #  target 'SampleLib_Tests' do
 #    inherit! :search_paths

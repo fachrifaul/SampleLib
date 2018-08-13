@@ -20,10 +20,5 @@ class ViewController: UIViewController {
         label.textColor = UIColor.lightText()
     }
     
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
 }
 
