@@ -1,5 +1,6 @@
 use_frameworks!
 
+#source 'https://github.com/bukalapak/BukalapakiOSSpecs'
 target 'SampleLib_Example' do
 #    pod 'SampleLib'
   pod 'SampleLib', :path => '../'
